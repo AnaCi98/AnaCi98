@@ -4,6 +4,5 @@ My passion for technology began when I was little, my sister taught me to play w
 
 ## Languages and Tools:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css3" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="css3" width="40" height="40"/>
+
