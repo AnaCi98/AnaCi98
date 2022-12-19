@@ -4,7 +4,7 @@ Since I was a child I have been passionate about technology, I started designing
 
 I love being able to create digital solutions that can create an approach to technology for anyone in the world and above all so that more girls and women have greater recognition within the technology industry, which inspired me to create the CHIDASTECH community that focuses on motivating girls to join STEM fields.
 
-~learning DevOps/CloudOps~
+~ learning DevOps/CloudOps ~
 
 ## 	:star:Connect with me:
 <a href="https://www.linkedin.com/in/ana-cifuentes-394b76212/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="40" height="40"/></a>
